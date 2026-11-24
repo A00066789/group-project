@@ -11,7 +11,6 @@ During the 1990s, consoles became more powerful and it introduced major improvem
 The 2010s created new opportunities for the gaming industry. Games such as the angry birds, Minecraft and Pokémon GO attracted many players to play mobile games. Mobile gaming made gaming more accessible because people can’t take their consoles and computers outside, and mobile computing allows the players to play games from any locations. 
 Nowadays cloud computing allows users to steam games through an internet connection without the need of a powerful hardware to run them. These developments show how gaming continue to adapt to new technologies. 
 
-Conclusion -
-Overall, gaming has developed a lot over the years. It started mainly with machines and now it has become more advanced wit better graphics and new technology. Nowadays, people can play games on different devices and even with other people around the world. This shows how much gaming as changed and how it continues to improve over the time. 
+
 
 
